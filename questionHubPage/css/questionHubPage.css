@@ -195,7 +195,7 @@
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
     .post-module1:hover .description1,
-    .post-module1:focus .description1{
+    .post-module1:active .description1{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }
@@ -223,7 +223,7 @@
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
     .post-module2:hover .description2,
-    .post-module2:focus .description2{
+    .post-module2:active .description2{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }    
@@ -250,7 +250,7 @@
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
     .post-module3:hover .description3,
-    .post-module3:focus .description3{
+    .post-module3:active .description3{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }
@@ -277,7 +277,7 @@
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
     .post-module4:hover .description4,
-    .post-module4:focus .description4{
+    .post-module4:active .description4{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }
@@ -304,7 +304,7 @@
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
     .post-module5:hover .description5,
-    .post-module5:focus .description5{
+    .post-module5:active .description5{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }    
@@ -331,7 +331,7 @@
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
     .post-module6:hover .description6,
-    .post-module6:focus .description6{
+    .post-module6:active .description6{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }    
@@ -343,13 +343,13 @@
 
     /* giving buttons their features on hover/focus  */
     .buttonfntr:hover, 
-    .buttonfntr:focus{
+    .buttonfntr:active{
         color: #FFFFFF;
         background: rgba(255,255,255,0.3);
         transform-origin: left;
     }
     .btn:hover,
-    .btn:focus {
+    .btn:active {
         outline: none;
         box-shadow: none;
     }    

@@ -194,8 +194,7 @@
         transition: transform 500ms ease;
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
-    .post-module1:hover .description1,
-    .post-module1:active .description1{
+    .post-module1:hover .description1{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }
@@ -222,8 +221,7 @@
         transition: transform 500ms ease;
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
-    .post-module2:hover .description2,
-    .post-module2:active .description2{
+    .post-module2:hover .description2{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }    
@@ -249,8 +247,7 @@
         transition: transform 500ms ease;
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
-    .post-module3:hover .description3,
-    .post-module3:active .description3{
+    .post-module3:hover .description3{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }
@@ -276,8 +273,7 @@
         transition: transform 500ms ease;
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
-    .post-module4:hover .description4,
-    .post-module4:active .description4{
+    .post-module4:hover .description4{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }
@@ -303,8 +299,7 @@
         transition: transform 500ms ease;
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
-    .post-module5:hover .description5,
-    .post-module5:active .description5{
+    .post-module5:hover .description5{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }    
@@ -330,8 +325,7 @@
         transition: transform 500ms ease;
     }
     /* MAKING DESCRIPTION VISIBLE ON HOVER  */
-    .post-module6:hover .description6,
-    .post-module6:active .description6{
+    .post-module6:hover .description6{
         opacity: 1;
         /* transition: opacity 500ms ease;  WONT WORK*/
     }    

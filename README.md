@@ -62,7 +62,7 @@
                 <div class="post-module1 ">
                     <!-- btw, 1px margin-bottom here gives button and image/content kinda different (a bit of space) look -->
                     <div class='post-modules' style="margin-bottom: 1px !important;">       
-                        <div class='thumbnail' style="background-image: linear-gradient(180deg, rgba(18, 25, 33, 0) 41.15%, rgba(18, 25, 33, 0.37) 54.8%, rgba(18, 25, 33, 0.63) 71.51%, rgba(18, 25, 33, 0.86) 85.37%, #121921 100%), url(img/webcrawler1.jpg);" >
+                        <div class='thumbnail' style="background-image: linear-gradient(180deg, rgba(18, 25, 33, 0) 41.15%, rgba(18, 25, 33, 0.37) 54.8%, rgba(18, 25, 33, 0.63) 71.51%, rgba(18, 25, 33, 0.86) 85.37%, #121921 100%), url(https://www.howtogeek.com/wp-content/uploads/2021/05/web_crawler_header.jpg?height=200p&trim=2,2,2,2);" >
                         </div>                        
                         <div class='post-content'>
                             <h1 class='title' style="font-size: 30px; font-weight:bolder !important;">1.Backtracking Chef</h1><br>
@@ -96,7 +96,7 @@
                     <!-- onmouseover="bgblur1(this)"  onmouseout="bgrestore1(this)"    taken from here -->
                     <div class='post-modules' style="margin-bottom: 1px !important;">   
                         <!-- paste image url here in thumbnail      -->
-                        <div class='thumbnail' style="background-image: linear-gradient(180deg, rgba(18, 25, 33, 0) 41.15%, rgba(18, 25, 33, 0.37) 54.8%, rgba(18, 25, 33, 0.63) 71.51%, rgba(18, 25, 33, 0.86) 85.37%, #121921 100%), url(img/rdp1.jpg);" >
+                        <div class='thumbnail' style="background-image: linear-gradient(180deg, rgba(18, 25, 33, 0) 41.15%, rgba(18, 25, 33, 0.37) 54.8%, rgba(18, 25, 33, 0.63) 71.51%, rgba(18, 25, 33, 0.86) 85.37%, #121921 100%), url(https://www.parallels.com/blogs/ras/app/uploads/2020/09/rdp-meaning-bg.jpg);" >
                         </div>                        
                         <div class='post-content'>
                             <h1 class='title' style="font-size: 30px; font-weight:bolder !important;">2.Reverse The Number</h1><br>
@@ -157,7 +157,7 @@
             <div class="col-md-4 col-sm-6 col-sx-12">
                 <div class="post-module4 " >
                     <div class='post-modules' style="margin-bottom: 1px !important;">       
-                        <div class='thumbnail' style="background-image: linear-gradient(180deg, rgba(18, 25, 33, 0) 41.15%, rgba(18, 25, 33, 0.37) 54.8%, rgba(18, 25, 33, 0.63) 71.51%, rgba(18, 25, 33, 0.86) 85.37%, #121921 100%), url(img/olympiad1.jpg);" >
+                        <div class='thumbnail' style="background-image: linear-gradient(180deg, rgba(18, 25, 33, 0) 41.15%, rgba(18, 25, 33, 0.37) 54.8%, rgba(18, 25, 33, 0.63) 71.51%, rgba(18, 25, 33, 0.86) 85.37%, #121921 100%), url(https://analyticsinsight.b-cdn.net/wp-content/uploads/2021/08/Top-8-Programming-Languages-for-Hacking-2021.jpg);" >
                         </div>                        
                         <div class='post-content'>
                             <h1 class='title' style="font-size: 30px; font-weight:bolder !important;">4.Smallest Numbers of Notes</h1><br>

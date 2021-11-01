@@ -42,14 +42,14 @@ $(function(){
     });
   });
   
-// function bgblur1(x) {
-//     x.getElementsByClassName("thumbnail")[0].style.filter = "blur(2px)";
-//     x.getElementsByClassName("thumbnail")[0].style.transition = "all 0.3s";
-// }
-// function bgrestore1(x) {
-//     x.getElementsByClassName("thumbnail")[0].style.filter = "blur(0px)";
-//     x.getElementsByClassName("thumbnail")[0].style.transition = "all 0.3s";
-// }
+function bgopa1(x) {
+    x.getElementsByClassName("description1").style.opacity = "1.0";
+    x.getElementsByClassName("description1").style.transition = "all 0.3s";
+}
+function bgrestore1(x) {
+    x.getElementsByClassName("description1").style.opacity = "0.0";
+    x.getElementsByClassName("description1").style.transition = "all 0.3s";
+}
 // function bgblur2(x) {
 //     x.getElementsByClassName("thumbnail")[0].style.filter = "blur(2px)";
 //     x.getElementsByClassName("thumbnail")[0].style.transition = "all 0.3s";

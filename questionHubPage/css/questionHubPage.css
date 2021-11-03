@@ -80,7 +80,7 @@
     transition: transform 500ms ease;
     border-radius: 5px 5px 5px 5px !important;
     /* box-shadow: 0 0 9px 9px rgb(23, 117, 117);     */
-    box-shadow: 0 0 9px 9px rgb(102, 136, 136);    
+    box-shadow: 0 0 6px 6px rgba(102, 136, 136, 0.75);    
     /* toggle border radius to get a black extra space in bottom and up       */
 
 }
@@ -181,6 +181,7 @@
     /* making cards look bigger on hovering cards  */
     .post-module1:hover{
         transform: scale(0.97);
+       box-shadow: 0 0 9px 9px rgba(102, 136, 136, 1); 
         transition: transform 500ms ease-in;
     }
     /* giving title a green bar below title */

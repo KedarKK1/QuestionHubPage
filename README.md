@@ -123,7 +123,7 @@
             <div class="col-md-4 col-sm-6 col-sx-12">
                 <div class="post-module3 " >
                     <div class='post-modules' style="margin-bottom: 1px !important;">       
-                        <div class='thumbnail' style="background-image: linear-gradient(180deg, rgba(18, 25, 33, 0) 41.15%, rgba(18, 25, 33, 0.37) 54.8%, rgba(18, 25, 33, 0.63) 71.51%, rgba(18, 25, 33, 0.86) 85.37%, #121921 100%), url(img/webmaster1.jpg);" >
+                        <div class='thumbnail' style="background-image: linear-gradient(180deg, rgba(18, 25, 33, 0) 41.15%, rgba(18, 25, 33, 0.37) 54.8%, rgba(18, 25, 33, 0.63) 71.51%, rgba(18, 25, 33, 0.86) 85.37%, #121921 100%), url(/questionHubPage/img/webmaster1.jpg);" >
                         </div>                        
                         <div class='post-content'>
                             <h1 class='title' style="font-size: 30px; font-weight:bolder !important;">3.Packaging Cupcakes</h1><br>

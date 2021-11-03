@@ -80,38 +80,38 @@
     transition: transform 500ms ease;
     border-radius: 5px 5px 5px 5px !important;
     /* box-shadow: 0 0 9px 9px rgb(23, 117, 117);     */
-    box-shadow: 0 0 6px 6px rgba(102, 136, 136, 0.75);    
+    box-shadow: 0 0 5px 5px rgba(102, 136, 136, 0.50);    
     /* toggle border radius to get a black extra space in bottom and up       */
 
 }
 .post-module2{
     transform: scale(0.88);
     transition: transform 500ms ease;
-    box-shadow: 0 0 9px 9px rgb(102, 136, 136);     
+    box-shadow: 0 0 5px 5px rgba(102, 136, 136, 0.50);      
     border-radius: 5px 5px 5px 5px !important;     
 }
 .post-module3{
     transform: scale(0.88);
     transition: transform 500ms ease;
-    box-shadow: 0 0 9px 9px rgb(102, 136, 136); 
+    box-shadow: 0 0 5px 5px rgba(102, 136, 136, 0.50);   
     border-radius: 5px 5px 5px 5px !important;
 }
 .post-module4{
     transform: scale(0.88);
     transition: transform 500ms ease;
-    box-shadow: 0 0 9px 9px rgb(102, 136, 136); 
+    box-shadow: 0 0 5px 5px rgba(102, 136, 136, 0.50);   
     border-radius: 5px 5px 5px 5px !important;       
 }
 .post-module5{
     transform: scale(0.88);
     transition: transform 500ms ease;
-    box-shadow: 0 0 9px 9px rgb(102, 136, 136); 
+    box-shadow: 0 0 5px 5px rgba(102, 136, 136, 0.50);   
     border-radius: 5px 5px 5px 5px !important;       
 }
 .post-module6{
     transform: scale(0.88);
     transition: transform 500ms ease;
-    box-shadow: 0 0 9px 9px rgb(102, 136, 136);
+    box-shadow: 0 0 5px 5px rgba(102, 136, 136, 0.50);  
     border-radius: 5px 5px 5px 5px !important;    
 }
 
@@ -209,6 +209,7 @@
     /* 2nd card  */
     .post-module2:hover{
         transform: scale(0.97);
+        box-shadow: 0 0 9px 9px rgba(102, 136, 136, 1);         
         transition: transform 500ms ease;
     }
     /* giving title a green bar below title */
@@ -235,6 +236,7 @@
     /* 3rd card starts here  */
     .post-module3:hover{
         transform: scale(0.97);
+        box-shadow: 0 0 9px 9px rgba(102, 136, 136, 1);           
         transition: transform 500ms ease;
     }   
     /* giving title a green bar below title */
@@ -261,6 +263,7 @@
     /* 4th card starts here  */
     .post-module4:hover{
         transform: scale(0.97);
+        box-shadow: 0 0 9px 9px rgba(102, 136, 136, 1);           
         transition: transform 500ms ease;
     }
     /* giving title a green bar below title */
@@ -287,6 +290,7 @@
     /* 5th card starts here   */
     .post-module5:hover{
         transform: scale(0.97);
+        box-shadow: 0 0 9px 9px rgba(102, 136, 136, 1);           
         transition: transform 500ms ease;
     }
     /* giving title a green bar below title */
@@ -313,6 +317,7 @@
     /* 6th card starts here */
     .post-module6:hover{
         transform: scale(0.97);
+        box-shadow: 0 0 9px 9px rgba(102, 136, 136, 1);           
         transition: transform 500ms ease;
     }        
     /* giving title a green bar below title */
